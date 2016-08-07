@@ -21,3 +21,6 @@ index.html
 *.TMP
 *.db
 *.orig
+
+# Project Version file
+ProjectSettings/ProjectVersion.txt
